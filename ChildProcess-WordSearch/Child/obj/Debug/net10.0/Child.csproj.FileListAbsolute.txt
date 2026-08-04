@@ -1,0 +1,14 @@
+D:\WordSearchApp\Child\bin\Debug\net10.0\Child.exe
+D:\WordSearchApp\Child\bin\Debug\net10.0\Child.deps.json
+D:\WordSearchApp\Child\bin\Debug\net10.0\Child.runtimeconfig.json
+D:\WordSearchApp\Child\bin\Debug\net10.0\Child.dll
+D:\WordSearchApp\Child\bin\Debug\net10.0\Child.pdb
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.GeneratedMSBuildEditorConfig.editorconfig
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.AssemblyInfoInputs.cache
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.AssemblyInfo.cs
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.csproj.CoreCompileInputs.cache
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.dll
+D:\WordSearchApp\Child\obj\Debug\net10.0\refint\Child.dll
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.pdb
+D:\WordSearchApp\Child\obj\Debug\net10.0\Child.genruntimeconfig.cache
+D:\WordSearchApp\Child\obj\Debug\net10.0\ref\Child.dll
