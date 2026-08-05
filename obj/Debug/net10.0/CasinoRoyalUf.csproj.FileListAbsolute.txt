@@ -1,0 +1,14 @@
+C:\Users\taras\source\repos\CasinoRoyalUf\bin\Debug\net10.0\CasinoRoyalUf.exe
+C:\Users\taras\source\repos\CasinoRoyalUf\bin\Debug\net10.0\CasinoRoyalUf.deps.json
+C:\Users\taras\source\repos\CasinoRoyalUf\bin\Debug\net10.0\CasinoRoyalUf.runtimeconfig.json
+C:\Users\taras\source\repos\CasinoRoyalUf\bin\Debug\net10.0\CasinoRoyalUf.dll
+C:\Users\taras\source\repos\CasinoRoyalUf\bin\Debug\net10.0\CasinoRoyalUf.pdb
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.AssemblyInfo.cs
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.dll
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\refint\CasinoRoyalUf.dll
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.pdb
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\CasinoRoyalUf.genruntimeconfig.cache
+C:\Users\taras\source\repos\CasinoRoyalUf\obj\Debug\net10.0\ref\CasinoRoyalUf.dll
