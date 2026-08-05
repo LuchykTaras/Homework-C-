@@ -1,0 +1,14 @@
+C:\Users\taras\source\repos\GeneratorEvents\bin\Debug\net10.0\GeneratorEvents.exe
+C:\Users\taras\source\repos\GeneratorEvents\bin\Debug\net10.0\GeneratorEvents.deps.json
+C:\Users\taras\source\repos\GeneratorEvents\bin\Debug\net10.0\GeneratorEvents.runtimeconfig.json
+C:\Users\taras\source\repos\GeneratorEvents\bin\Debug\net10.0\GeneratorEvents.dll
+C:\Users\taras\source\repos\GeneratorEvents\bin\Debug\net10.0\GeneratorEvents.pdb
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.AssemblyInfo.cs
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.dll
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\refint\GeneratorEvents.dll
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.pdb
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\GeneratorEvents.genruntimeconfig.cache
+C:\Users\taras\source\repos\GeneratorEvents\obj\Debug\net10.0\ref\GeneratorEvents.dll
