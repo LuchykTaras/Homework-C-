@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AsyncClient/AsyncClient.csproj" />
+  <Project Path="AsyncServer/AsyncServer.csproj" />
+  <Project Path="AsyncWebsockets.csproj" />
+</Solution>
