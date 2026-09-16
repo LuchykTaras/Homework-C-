@@ -1,0 +1,14 @@
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\bin\Debug\net10.0\MultithreadingAsynchronousProcessing.exe
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\bin\Debug\net10.0\MultithreadingAsynchronousProcessing.deps.json
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\bin\Debug\net10.0\MultithreadingAsynchronousProcessing.runtimeconfig.json
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\bin\Debug\net10.0\MultithreadingAsynchronousProcessing.dll
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\bin\Debug\net10.0\MultithreadingAsynchronousProcessing.pdb
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.AssemblyInfo.cs
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.dll
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\refint\MultithreadingAsynchronousProcessing.dll
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.pdb
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\MultithreadingAsynchronousProcessing.genruntimeconfig.cache
+C:\Users\taras\source\repos\MultithreadingAsynchronousProcessing\obj\Debug\net10.0\ref\MultithreadingAsynchronousProcessing.dll

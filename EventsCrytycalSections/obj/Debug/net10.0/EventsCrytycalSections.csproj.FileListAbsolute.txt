@@ -1,0 +1,14 @@
+C:\Users\taras\source\repos\EventsCrytycalSections\bin\Debug\net10.0\EventsCrytycalSections.exe
+C:\Users\taras\source\repos\EventsCrytycalSections\bin\Debug\net10.0\EventsCrytycalSections.deps.json
+C:\Users\taras\source\repos\EventsCrytycalSections\bin\Debug\net10.0\EventsCrytycalSections.runtimeconfig.json
+C:\Users\taras\source\repos\EventsCrytycalSections\bin\Debug\net10.0\EventsCrytycalSections.dll
+C:\Users\taras\source\repos\EventsCrytycalSections\bin\Debug\net10.0\EventsCrytycalSections.pdb
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.AssemblyInfo.cs
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.dll
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\refint\EventsCrytycalSections.dll
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.pdb
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\EventsCrytycalSections.genruntimeconfig.cache
+C:\Users\taras\source\repos\EventsCrytycalSections\obj\Debug\net10.0\ref\EventsCrytycalSections.dll
