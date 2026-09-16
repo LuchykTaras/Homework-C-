@@ -1,0 +1,28 @@
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.AssemblyInfo.cs
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\Multi-client server\bin\Debug\net10.0\Multi-client server.exe
+C:\Users\taras\source\repos\Multi-client server\bin\Debug\net10.0\Multi-client server.deps.json
+C:\Users\taras\source\repos\Multi-client server\bin\Debug\net10.0\Multi-client server.runtimeconfig.json
+C:\Users\taras\source\repos\Multi-client server\bin\Debug\net10.0\Multi-client server.dll
+C:\Users\taras\source\repos\Multi-client server\bin\Debug\net10.0\Multi-client server.pdb
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.dll
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\refint\Multi-client server.dll
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.pdb
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\Multi-client server.genruntimeconfig.cache
+C:\Users\taras\source\repos\Multi-client server\obj\Debug\net10.0\ref\Multi-client server.dll
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.AssemblyInfoInputs.cache
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.AssemblyInfo.cs
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.csproj.CoreCompileInputs.cache
+D:\IT Step Academy\Multi-client server\Multi-client server\bin\Debug\net10.0\Multi-client server.exe
+D:\IT Step Academy\Multi-client server\Multi-client server\bin\Debug\net10.0\Multi-client server.deps.json
+D:\IT Step Academy\Multi-client server\Multi-client server\bin\Debug\net10.0\Multi-client server.runtimeconfig.json
+D:\IT Step Academy\Multi-client server\Multi-client server\bin\Debug\net10.0\Multi-client server.dll
+D:\IT Step Academy\Multi-client server\Multi-client server\bin\Debug\net10.0\Multi-client server.pdb
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.dll
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\refint\Multi-client server.dll
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.pdb
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\Multi-client server.genruntimeconfig.cache
+D:\IT Step Academy\Multi-client server\Multi-client server\obj\Debug\net10.0\ref\Multi-client server.dll

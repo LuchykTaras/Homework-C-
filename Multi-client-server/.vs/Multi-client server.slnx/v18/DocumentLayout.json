@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|d:\\it step academy\\multi-client server\\multi-client server\\asyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|solutionrelative:asyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncServer.cs",
+              "DocumentMoniker": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\AsyncServer.cs",
+              "RelativeDocumentMoniker": "AsyncServer.cs",
+              "ToolTip": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\AsyncServer.cs",
+              "RelativeToolTip": "AsyncServer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T11:38:13.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:343475886:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:691135833:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
