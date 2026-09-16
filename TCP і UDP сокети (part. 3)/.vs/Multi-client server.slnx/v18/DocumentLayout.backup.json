@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|d:\\it step academy\\multi-client server\\multi-client server\\asyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|solutionrelative:asyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|d:\\it step academy\\multi-client server\\multi-client server\\clientapp\\asyncclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363B5DC2-C239-AD39-27B5-C6AEE4018931}|Multi-client server.csproj|solutionrelative:clientapp\\asyncclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AsyncClient.cs",
-              "DocumentMoniker": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\ClientApp\\AsyncClient.cs",
-              "RelativeDocumentMoniker": "ClientApp\\AsyncClient.cs",
-              "ToolTip": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\ClientApp\\AsyncClient.cs",
-              "RelativeToolTip": "ClientApp\\AsyncClient.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T19:34:08.191Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
@@ -45,7 +28,7 @@
               "RelativeDocumentMoniker": "AsyncServer.cs",
               "ToolTip": "D:\\IT Step Academy\\Multi-client server\\Multi-client server\\AsyncServer.cs",
               "RelativeToolTip": "AsyncServer.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T11:38:13.037Z",
               "EditorCaption": ""
